@@ -28,7 +28,7 @@ CONFIG = {
         "Happy Birthday to my lovely brother. \n\n"
         "รักพี่เสมอ\nจากน้องคนนี้\n\n"
 
-        "Ps. I'll always by your side. สุขสันต์วันเกิดนะค้าา"
+        "Ps. I'll always by your side. สุขสันต์วันเกิดนะค้า"
     ),
     "photo": "brother.jpg",  # optional: put a photo with this name next to app.py (jpg/png)
     "caption": "พี่ชายที่น่าร้ากกก 💙",
