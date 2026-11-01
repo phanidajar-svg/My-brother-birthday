@@ -9,7 +9,7 @@ import streamlit as st
 
 # ===================== EDIT THESE =====================
 CONFIG = {
-    "name": "นายณรงค์ชัย จารุทรัพย์สดใส",
+    "name": "เด็กชายณรงค์ชัย (แป็ก)",
     "from": "จากน้องที่น่ารักที่สุด",
     "title": "พี่ชายยอดเยี่ยมแห่งปี",
     # (emoji, award title, short description)
@@ -35,7 +35,7 @@ CONFIG = {
 }
 # ======================================================
 
-st.set_page_config(page_title="สุขสันต์วันเกิด 🎂", page_icon="🎂", layout="centered")
+st.set_page_config(page_title="HAPPY 29th BIRTHDAY 🎂", page_icon="🎂", layout="centered")
 
 st.markdown(
     """<style>
